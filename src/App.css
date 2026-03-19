@@ -1,0 +1,77 @@
+/* App.css - Premium Black & Gold Edition */
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  /* 배경을 깊은 밤하늘 같은 블랙으로 설정 */
+  background-color: #0f0f0f;
+  min-height: 100vh;
+  color: #f5f5f5;
+  /* 기본 글자색은 부드러운 화이트 */
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+  /* 로고에 은은한 골드 광택 효과 */
+  filter: drop-shadow(0 0 1em #d4af3766);
+}
+
+.logo:hover {
+  /* 호버 시 황금빛이 더 강렬하게 퍼지는 효과 */
+  filter: drop-shadow(0 0 2em #d4af37);
+}
+
+/* 버튼이나 카드 같은 요소에 적용될 프리미엄 스타일 */
+.card {
+  padding: 2em;
+  background-color: #1a1a1a;
+  /* 배경보다 살짝 밝은 블랙 */
+  border: 1px solid #d4af37;
+  /* 얇은 골드 테두리 */
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  margin-top: 2rem;
+}
+
+/* 강조 텍스트나 링크 스타일 */
+a {
+  font-weight: 500;
+  color: #d4af37;
+  /* 링크 색상을 골드로 변경 */
+  text-decoration: inherit;
+  transition: color 0.25s;
+}
+
+a:hover {
+  color: #f1d592;
+  /* 호버 시 밝은 골드 */
+}
+
+.read-the-docs {
+  /* 하단 설명 문구는 차분한 다크 골드 톤으로 */
+  color: #c5a059;
+  font-size: 0.9rem;
+  margin-top: 3rem;
+}
+
+/* 애니메이션은 그대로 두되 컬러감만 조정 */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
