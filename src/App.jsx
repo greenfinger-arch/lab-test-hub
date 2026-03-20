@@ -9,19 +9,6 @@ import {
 import styled, { createGlobalStyle, keyframes } from "styled-components";
 
 // 데이터 임포트
-import { fengShuiWealthData } from "./data/tests/fengShuiWealthData";
-import { fengShuiWarningData } from "./data/tests/fengShuiWarningData";
-import { fengShuiBlessingData } from "./data/tests/fengShuiBlessingData";
-import { krPlantMiracleData } from "./data/tests/krPlantMiracleData.JS";
-import { KitchenScentData } from "./data/tests/KitchenScentData.js";
-import { BedUnderworldData } from "./data/tests/BedUnderworldData.js";
-import { ClosetFortuneData } from "./data/tests/ClosetFortuneData.js";
-import { FengShuiMasterData } from "./data/tests/FengShuiMasterData.js";
-import { StudentRoomData } from "./data/tests/StudentRoomData.js";
-import { HealingRoomData } from "./data/tests/HealingRoomData.js";
-import { SingleRoomData } from "./data/tests/SingleRoomData.js";
-import { PetTeriorData } from "./data/tests/PetTeriorData.js";
-import { BabyRoomData } from "./data/tests/BabyRoomData.js";
 import { BabyLifestyleCuratedData } from "./data/tests/BabyLifestyleCuratedData.js";
 import { FriendlyBabyCareData } from "./data/tests/FriendlyBabyCareData.js";
 
@@ -67,19 +54,6 @@ const spin = keyframes` 0% { transform: rotate(0deg); } 100% { transform: rotate
 
 // 테스트 레지스트리
 const testRegistry = {
-  fengShuiWealth: fengShuiWealthData,
-  fengShuiWarning: fengShuiWarningData,
-  fengShuiBlessing: fengShuiBlessingData,
-  krPlantMiracle: krPlantMiracleData,
-  KitchenScent: KitchenScentData,
-  BedUnderworld: BedUnderworldData,
-  ClosetFortune: ClosetFortuneData,
-  FengShuiMaster: FengShuiMasterData,
-  StudentRoom: StudentRoomData,
-  HealingRoom: HealingRoomData,
-  SingleRoom: SingleRoomData,
-  PetTerior: PetTeriorData,
-  BabyRoomData: BabyRoomData,
   BabyLifestyleCurated: BabyLifestyleCuratedData,
   FriendlyBabyCare: FriendlyBabyCareData,
 };
