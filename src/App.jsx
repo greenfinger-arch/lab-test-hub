@@ -93,7 +93,7 @@ const MainGallery = () => {
     <MainContainer>
       <header style={{ textAlign: "center", marginBottom: "50px" }}>
         <Badge>Premium Selection</Badge>
-        <MainTitle>THE PRIVATE LAB</MainTitle>
+        <MainTitle>LIFE CHOICE PICKS LAB</MainTitle>
         <SubTitle>당신의 일상을 바꾸는 특별한 큐레이션</SubTitle>
       </header>
 
