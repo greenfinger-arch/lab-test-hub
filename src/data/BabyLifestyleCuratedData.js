@@ -1,5 +1,5 @@
 export const BabyLifestyleCuratedData = {
-  id: "kr-Baby-Life-Style",
+  id: "kr-Baby-life-style",
   isReady: true,
   title: "The Noble Lineage: 아이의 미래를 설계하는 단 하나의 공간 철학",
   relatedPostUrl:
