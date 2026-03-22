@@ -3,8 +3,8 @@ export const FriendlyBabyCareData = {
   isReady: true,
   title: "오늘 우리 아이와 나의 마음을 토닥여줄, 가장 다정한 육아 조각 찾기",
   subTitle: "누구보다 애쓰고 있는 당신의 하루에, 작은 쉼표 하나를 선물하고 싶어요.",
-  relatedPostUrl: "/images/krBabymain.jpg",
-  mainImg: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&q=80&w=1600", // 아이와 엄마가 마주 보며 웃는 따뜻한 사진
+  relatedPostUrl: "https://lifechoicepicks.com/2026-essential-baby-gear-top-5-care-picks/",
+  mainImg: "/images/krBabymain.jpg", // 아이와 엄마가 마주 보며 웃는 따뜻한 사진
   questions: [
     {
       q: "창밖으로 아침 햇살이 비칠 때, 곤히 잠든 아이의 얼굴을 보며 가장 먼저 드는 생각은 무엇인가요?",
