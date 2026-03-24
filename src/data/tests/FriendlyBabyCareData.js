@@ -5,7 +5,7 @@ export const FriendlyBabyCareData = {
   subTitle: "누구보다 애쓰고 있는 당신의 하루에, 작은 쉼표 하나를 선물하고 싶어요.",
   relatedPostUrl: "https://lifechoicepicks.com/2026-essential-baby-gear-top-5-care-picks/",
   // 메인 이미지 경로 수정: krBabymain (대문자 B, 소문자 m 확인)
-  mainImg: "images/krBabymain.jpg", 
+  mainImg: "/images/krBabymain.jpg", 
   questions: [
     {
       q: "창밖으로 아침 햇살이 비칠 때, 곤히 잠든 아이의 얼굴을 보며 가장 먼저 드는 생각은 무엇인가요?",
