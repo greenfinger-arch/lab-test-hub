@@ -11,6 +11,7 @@ import styled, { createGlobalStyle, keyframes } from "styled-components";
 // 데이터 임포트
 import { BabyLifestyleCuratedData } from "./data/tests/BabyLifestyleCuratedData.js";
 import { FriendlyBabyCareData } from "./data/tests/FriendlyBabyCareData.js";
+import { CreativePlayStyleData } from "./data/tests/CreativePlayStyleData.js";
 
 // 1. 전역 스타일 및 애니메이션
 const GlobalStyle = createGlobalStyle`
@@ -56,6 +57,7 @@ const spin = keyframes` 0% { transform: rotate(0deg); } 100% { transform: rotate
 const testRegistry = {
   BabyLifestyleCurated: BabyLifestyleCuratedData,
   FriendlyBabyCare: FriendlyBabyCareData,
+  CreativePlayStyle: CreativePlayStyleData,
 };
 
 // [삽입 코드 1] 공개 가능한 테스트 키값만 추출 (isReady가 true인 것만)
