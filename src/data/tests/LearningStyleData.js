@@ -62,28 +62,28 @@ export const LearningStyleData = {
       name: "깊이 있는 생각 대장 (Logical Thinker)",
       desc: "당신의 아이는 원리를 궁금해하고 논리적인 연결 고리를 찾는 것을 즐기는 '작은 철학자'예요. 급하게 진도를 나가기보다 하나를 알아도 깊게 이해하고 싶어 하는 아이의 속도를 존중해 주세요. 이런 아이에게는 사고의 깊이를 더해줄 '웅진 스마트쿠키'나 체계적인 학습 솔루션이 좋은 파트너가 될 거예요. 아이가 정답을 맞혔을 때보다 '어떻게 그런 생각을 했니?'라고 그 과정을 물어봐 줄 때 아이의 지성은 더 크게 성장합니다.",
       img: "/images/krLearnResultA.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-smart-learning-link",
+      affiliateLink: "https://www.wjthinkbig.com/index.do",
       ctaText: "아이의 논리력 성장에 날개 달아주기 →"
     },
     B: {
       name: "손끝으로 배우는 탐구자 (Hands-on Explorer)",
       desc: "백 마디 말보다 한 번의 직접적인 경험이 아이의 뇌를 깨웁니다! 당신의 아이는 물체를 직접 만지고 조작하며 세상의 규칙을 익히는 감각이 뛰어난 탐험가예요. 추상적인 숫자가 어렵게 느껴질 땐, 손으로 만질 수 있는 실체를 보여주세요. '넘버블록스 매스링크 세트'는 아이에게 수학이 얼마나 재미있는 놀이인지 알려줄 최고의 선물이 될 거예요. 아이의 손때 묻은 교구들이 바로 아이가 성장하고 있다는 가장 확실한 훈장입니다.",
       img: "/images/krLearnResultB.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-numberblocks-link",
+      affiliateLink: "https://link.coupang.com/a/eaLBTb",
       ctaText: "수학이 즐거워지는 마법 경험하기 →"
     },
     C: {
       name: "반짝이는 언어 예술가 (Eloquent Storyteller)",
       desc: "소리에 민감하고 이야기를 사랑하는 아이네요! 당신의 아이는 문장의 결을 느끼고 단어의 맛을 알아가는 언어적 감수성이 풍부한 예술가형입니다. 글자를 공부로 대하기보다, 책 속의 주인공과 대화하는 즐거움을 먼저 느끼게 해주세요. '세이펜과 호환 전집'은 아이의 호기심에 즉각적으로 반응하며 문해력의 바다를 넓혀줄 거예요. 아이가 뱉는 예쁜 말 한마디 한마디를 소중히 기록해 주세요. 그것이 아이의 가장 큰 자산이 됩니다.",
       img: "/images/krLearnResultC.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-saypen-link",
+      affiliateLink: "https://link.coupang.com/a/eaLnWz",
       ctaText: "아이의 문해력 포텐 터뜨리기 →"
     },
     D: {
       name: "즐거운 스마트 러너 (Interactive Joy-Seeker)",
       desc: "배움은 즐거워야 한다는 진리를 몸소 실천하는 아이군요! 당신의 아이는 상호작용이 활발하고 시청각적인 자극을 통해 몰입도를 높이는 '에듀테크 최적화' 스타일입니다. 공부를 딱딱한 책상 앞의 고통이 아니라, 매일 기다려지는 퀴즈 게임처럼 느끼게 해주세요. '엘리하이 키즈'나 인터랙티브 앱 학습은 아이의 학습 의욕을 끌어올리는 강력한 엔진이 될 거예요. 아이와 함께 매일 작은 미션을 성공하며 성취감의 즐거움을 공유해 보세요.",
       img: "/images/krLearnResultD.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-tablet-learning-link",
+      affiliateLink: "https://elikids.mbest.co.kr",
       ctaText: "놀면서 배우는 스마트 러닝 시작하기 →"
     }
   }
