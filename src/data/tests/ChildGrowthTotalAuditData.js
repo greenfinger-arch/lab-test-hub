@@ -3,7 +3,7 @@ export const ChildGrowthTotalAuditData = {
   isReady: true,
   title: "우리 아이 쑥쑥 성장 종합 진단",
   subTitle: "영양, 자세, 면역까지! 우리 아이 성장을 가로막는 '숨은 방해물'은 무엇일까요?",
-  relatedPostUrl: "https://lifechoicepicks.com/child-growth-height-golden-time-solutions-2026",
+  relatedPostUrl: "https://lifechoicepicks.com/child-growth-height-golden-time-solutions-2026/",
   mainImg: "images/child-growth-total-main.jpg", 
   questions: [
     {
