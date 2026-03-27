@@ -14,7 +14,6 @@ import { FriendlyBabyCareData } from "./data/tests/FriendlyBabyCareData.js";
 import { CreativePlayStyleData } from "./data/tests/CreativePlayStyleData.js";
 import { LearningStyleData } from "./data/tests/LearningStyleData.js";
 import { SpringOutingStyleData } from "./data/tests/SpringOutingStyleData.js";
-import { ComprehensiveGrowthTestData } from "./data/tests/ComprehensiveGrowthTestData.js";
 
 // 1. 전역 스타일 및 애니메이션
 const GlobalStyle = createGlobalStyle`
@@ -63,7 +62,6 @@ const testRegistry = {
   CreativePlayStyle: CreativePlayStyleData,
   LearningStyle: LearningStyleData,
   SpringOutingStyle: SpringOutingStyleData,
-  ComprehensiveGrowthTest: ComprehensiveGrowthTestData,
 };
 
 // [삽입 코드 1] 공개 가능한 테스트 키값만 추출 (isReady가 true인 것만)
