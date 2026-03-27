@@ -49,28 +49,28 @@ export const ChildGrowthTotalAuditData = {
       name: "체계적 관리 시작형 (Growth Starter)",
       desc: "아이의 성장은 정확한 '기록'과 '영양'에서 시작됩니다! 현재 성장이 정체되어 보인다면 가장 먼저 아이의 데이터를 시각화해 보세요. **[휴비딕 초음파 신장계]**로 매일 아침 성장을 기록하고 부족한 영양을 채워주는 것이 급선무입니다. 지금 바로 1편 가이드를 확인해 보세요!",
       img: "/images/growthResultA.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-huvidic-link",
+      affiliateLink: "https://link.coupang.com/a/ebN4uu",
       ctaText: "1편: 정밀 측정 & 영양 솔루션 보기 →"
     },
     B: {
       name: "바른 골격 집중형 (Posture Master)",
       desc: "숨은 1cm를 찾아라! 아이의 영양 상태는 양호하지만, 무너진 자세가 성장을 방해하고 있습니다. 굽은 등과 거북목은 척추를 압박해 성장 호르몬의 흐름을 막죠. **[커블체어 키즈]**와 **[닥코 밴드]**로 아이의 골격을 바로 세워주세요. 자세만 바뀌어도 아이의 인상이 달라집니다!",
       img: "/images/growthResultB.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-curble-link",
+      affiliateLink: "https://link.coupang.com/a/ebUC5q",
       ctaText: "2편: 체형 교정 & 골격 솔루션 보기 →"
     },
     C: {
       name: "면역 방어막 강화형 (Immunity Guardian)",
       desc: "아프지 않아야 쑥쑥 큽니다! 잦은 병치레는 성장에 쓰일 에너지를 면역 전쟁에 낭비하게 만듭니다. 장 건강을 위한 **[락토핏 키즈]**와 에너지를 채워줄 **[홍이장군]**으로 몸속 방어막을 튼튼히 해주세요. 뿌리가 깊어야 나무가 높게 자라는 법입니다. 3편에서 면역 비결을 확인하세요!",
       img: "/images/growthResultC.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-lactofit-link",
+      affiliateLink: "https://link.coupang.com/a/eb6ahS",
       ctaText: "3편: 면역력 & 기초 체력 솔루션 보기 →"
     },
     D: {
       name: "퍼펙트 밸런스형 (All-Round Achiever)",
       desc: "훌륭합니다! 영양, 자세, 면역까지 전반적인 관리 상태가 매우 우수합니다. 지금의 밸런스를 유지하면서 아이의 성장을 꾸준히 응원해 주세요. 부족함 없는 성장을 위해 **[키즈텐 042]**와 같은 프리미엄 영양제로 마지막 한 점까지 채워준다면 우리 아이의 미래는 더욱 당당해질 거예요!",
       img: "/images/growthResultD.jpg",
-      affiliateLink: "https://link.coupang.com/a/your-kidsten-link",
+      affiliateLink: "https://link.coupang.com/a/ebOjvm",
       ctaText: "통합 성장 솔루션 전체 보기 →"
     }
   }
