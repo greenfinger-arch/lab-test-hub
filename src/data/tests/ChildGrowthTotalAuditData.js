@@ -4,7 +4,7 @@ export const ChildGrowthTotalAuditData = {
   title: "우리 아이 쑥쑥 성장 종합 진단",
   subTitle: "영양, 자세, 면역까지! 우리 아이 성장을 가로막는 '숨은 방해물'은 무엇일까요?",
   relatedPostUrl: "https://lifechoicepicks.com/child-growth-height-golden-time-solutions-2026/",
-  //mainImg: "images/child-growth-total-main.jpg", 
+  mainImg: "images/child-growth-total-main.jpg", 
   questions: [
     {
       q: "우리 아이의 평소 식사 습관과 성장 기록 상태는 어떤가요? (1편: 영양)",
@@ -71,7 +71,7 @@ export const ChildGrowthTotalAuditData = {
       desc: "훌륭합니다! 영양, 자세, 면역까지 전반적인 관리 상태가 매우 우수합니다. 지금의 밸런스를 유지하면서 아이의 성장을 꾸준히 응원해 주세요. 부족함 없는 성장을 위해 **[키즈텐 042]**와 같은 프리미엄 영양제로 마지막 한 점까지 채워준다면 우리 아이의 미래는 더욱 당당해질 거예요!",
       img: "/images/growthResultD.jpg",
       affiliateLink: "https://link.coupang.com/a/ebOjvm",
-      ctaText: "통합 성장 솔루션 전체 보기 →"
+      ctaText: "통합 성장 솔루션 보기 →"
     }
   }
 };
